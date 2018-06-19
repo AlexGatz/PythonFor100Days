@@ -1,6 +1,6 @@
 """
 Created by: Alex J. Gatz
-Date: 06/08/2018
+Date: 06/09/2018
 
 Hide a zip file inside a JPEG
 """
