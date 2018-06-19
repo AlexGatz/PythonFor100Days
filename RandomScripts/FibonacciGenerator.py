@@ -1,6 +1,6 @@
 """
 Created By: Alex J. Gatz
-Date: 06/15/2018
+Date: 06/06/2018
 
 This is some code playijg with the usage of a python 
 "Generator" which is really very cool. Another use case
