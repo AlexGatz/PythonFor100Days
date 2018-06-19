@@ -1,4 +1,9 @@
- Playing with tuple, map and lambda 
+"""
+Created by: Alex J. Gatz
+Date: 06/16/2018
+"""
+
+# Playing with tuple, map and lambda 
 
 names = ("Bill", "Tom", "Sam", "Joe")
 
