@@ -1,6 +1,6 @@
 """
 Created by: Alex J. Gatz
-Date: 06/07/2018
+Date: 06/08/2018
 """
 
 # Playing with tuple, map and lambda 
