@@ -6,7 +6,7 @@ Since I have essentially learned the majority of the syntax of python thus far I
 #### TODO: Move updates to a separate file called "blog" or something of the sort. - DONE!    
 #### TODO: Implement jupyter notebook based code and upload it to github for use with mybinder.org. 
 
-### UDPATE 2018 06 25:  
+### UDPATE 2018 06 23:  
 Taking a break from Django for a little while. Started to research and play around with a Kaggle competitions. I've been reading through and following this kernal on kaggle:[StartHereAGentleIntroduction](https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction)
 This is a link that has an excellent explanation of ROC AUC: [WhatIsAucRoc](https://stats.stackexchange.com/questions/132777/what-does-auc-stand-for-and-what-is-it) which is used as a determination of effectiveness of a predictive model. As of this time this method is concidered the 
 latest best practice for data science models. ... And here is another explenation that explains ROC AUC a slightly different way: [AnotherThingAboutAucRoc](https://web.archive.org/web/20160407221300/http://metaoptimize.com:80/qa/questions/988/simple-explanation-of-area-under-the-roc-curve).   
