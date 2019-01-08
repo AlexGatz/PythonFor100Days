@@ -1,6 +1,11 @@
 """
 Created by: Alex J. Gatz
 Date: 1/8/2019
+
+Description:
+Very simple image resizing program that takes a folder of images as 
+input and outputs resized copies of the images with "_resized"
+appended to the end of the original images title.
 """
 import sys 
 import cv2
@@ -22,7 +27,7 @@ def resizeImages(folder):
         print(resizedFileName)
 
 def main():
-    path = "/home/neo/Code/PythonStuff/PythonFor100Days/testImages"
+    path = "/path/to/images"
     resizeImages(path)
 
 if __name__ == "__main__":
