@@ -1,3 +1,7 @@
+"""
+Created by: Alex J. Gatz
+Date: 1/8/2019
+"""
 import sys 
 import cv2
 import os
