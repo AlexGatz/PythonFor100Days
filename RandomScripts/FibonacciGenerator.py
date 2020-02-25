@@ -2,10 +2,12 @@
 Created By: Alex J. Gatz
 Date: 06/07/2018
 
-This is some code playijg with the usage of a python 
+This is some code playing with the usage of a python 
 "Generator" which is really very cool. Another use case
 I want to play with is properly ordering installation of
 packages to ensure that if there are dependencies that they are installed in the proper order. 
+
+Created a recursive fibonacci function.
 """
 
 # Fibonacci generator
